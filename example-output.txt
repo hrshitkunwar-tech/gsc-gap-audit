@@ -1,0 +1,53 @@
+500 queries, 2504 impressions, 8 clicks
+
+== STRIKING DISTANCE == position < 20, impressions >= 5
+    113 imp  pos   6.7  mindlyft
+     73 imp  pos  11.5  crm updates
+     45 imp  pos   3.7  gtm engineer club alternatives
+     27 imp  pos   2.4  clay zoominfo apollo gtm product launch ai sales october 2026
+     24 imp  pos   3.2  gtm sales intelligence product launch ai october 2026 zoominfo apollo cl
+     22 imp  pos  16.5  auto update hubspot after calls
+     20 imp  pos   2.4  gtm sales intelligence product launch ai october 2026 clay zoominfo apol
+     17 imp  pos   4.2  for team collaboration, is agentforce or copilot better?
+     17 imp  pos   3.4  gtm sales intelligence ai product launch october 2026 zoominfo apollo cl
+     16 imp  pos   5.9  ai agent platform with centralized policy rbac and approval workflows wh
+     16 imp  pos  16.6  ai crm updates
+     15 imp  pos  11.5  human in command
+     14 imp  pos   8.4  automatic crm updates sales activity
+     14 imp  pos   2.2  choose automatic crm updates tool
+     14 imp  pos   3.6  gtm sales intelligence product launch october 2026 zoominfo clay
+     14 imp  pos   4.4  is it for team collaboration, is agentforce or copilot better?
+     14 imp  pos   9.0  mindlyft ai reviews
+     13 imp  pos   7.6  for small businesses, is agentforce or copilot a better fit?
+     11 imp  pos   4.6  clay zoominfo apollo sales intelligence product launch ai gtm
+     11 imp  pos   2.5  clay zoominfo apollo sales intelligence product launch ai gtm october 20
+     11 imp  pos   2.5  gtm sales intelligence ai product launch october 2026 clay zoominfo apol
+     10 imp  pos   7.8  automatic crm updates solutions
+     10 imp  pos   6.6  gtm sales intelligence product launch ai agent october 2026
+     10 imp  pos   5.2  how does customer feedback compare for agentforce versus copilot?
+     10 imp  pos   4.4  mind lyft
+     10 imp  pos   3.0  sales intelligence ai gtm product launch october 2026 zoominfo apollo cl
+      9 imp  pos   5.9  gtm sales intelligence product launch ai buyer signals october 2026
+      9 imp  pos   2.0  gtm sales intelligence product launch ai october 2026 zoominfo clay apol
+      8 imp  pos   3.0  (intitle:lyft or lyft) -"stock price" -"investor relations" -"financial 
+      8 imp  pos   4.4  ai meeting tool that automatically updates crm after sales calls
+      8 imp  pos   5.8  gtm sales intelligence product launch ai agents october 2026
+      8 imp  pos   7.6  human command
+      7 imp  pos   7.3  as a coo of mid-size b2b saas company, our sales team can't really track
+      7 imp  pos  11.1  automate crm updates after calls meetings
+      7 imp  pos   7.1  build me a list of ai tools that auto-update salesforce based on rep cal
+      7 imp  pos   4.3  clay zoominfo apollo product launch ai gtm october 2026
+      7 imp  pos   5.7  fireflies vs chorus which ai notetaker is better?
+      7 imp  pos   8.9  gtm sales intelligence product launch ai october 2026
+      7 imp  pos   9.4  gtm workflows
+      6 imp  pos   7.7  ai agent access reviews explained
+  -- 59 queries, 777 impressions in reach
+
+== UNCOVERED == clusters whose words appear in no sitemap URL
+     45 imp  pos   3.7  alternatives club         e.g. gtm engineer club alternatives
+     20 imp  pos  64.8  confluence sync           e.g. confluence to zendesk sync
+     10 imp  pos   4.4  lyft mind                 e.g. mind lyft
+      8 imp  pos   3.0  .in financial             e.g. (intitle:lyft or lyft) -"stock price" -"inve
+      6 imp  pos   6.2  automatically buys        e.g. how can i automatically update my crm when a
+      5 imp  pos  56.8  aircall                   e.g. "aircall"
+
