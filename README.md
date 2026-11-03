@@ -44,29 +44,43 @@ label.
 
 ## Real output
 
-This is the tool run against mindlyft.io, unedited, and the full file is in
-[`example-output.txt`](example-output.txt):
+This is the tool run against mindlyft.io for the 28 days to 3 November 2026,
+unedited. The full file is in [`example-output.txt`](example-output.txt):
 
 ```
-500 queries, 2504 impressions, 8 clicks
+803 queries, 3989 impressions, 9 clicks
 
 == STRIKING DISTANCE == position < 20, impressions >= 5
-    113 imp  pos   6.7  mindlyft
-     73 imp  pos  11.5  crm updates
-     45 imp  pos   3.7  gtm engineer club alternatives
+    125 imp  pos   6.3  mindlyft
+     78 imp  pos  11.8  crm updates
+     63 imp  pos   4.3  gtm engineer club alternatives
+     30 imp  pos   3.7  what gtm software supports salesforce hubspot bidirectional sync?
+     27 imp  pos   2.4  clay zoominfo apollo gtm product launch ai sales october 2026
      22 imp  pos  16.5  auto update hubspot after calls
-     17 imp  pos   4.2  for team collaboration, is agentforce or copilot better?
-     16 imp  pos   5.9  ai agent platform with centralized policy rbac and approval workflows wh
-     14 imp  pos   2.2  choose automatic crm updates tool
-  -- 59 queries, 777 impressions in reach
+     20 imp  pos   2.5  choose automatic crm updates tool
+  -- 92 queries, 1158 impressions in reach
 
 == UNCOVERED == clusters whose words appear in no sitemap URL
-     45 imp  pos   3.7  alternatives club         e.g. gtm engineer club alternatives
-     20 imp  pos  64.8  confluence sync           e.g. confluence to zendesk sync
+     63 imp  pos   4.3  alternatives club         e.g. gtm engineer club alternatives
+     21 imp  pos  66.4  confluence sync           e.g. confluence to zendesk sync
 ```
 
-777 impressions sitting under position 20 on a site getting 8 clicks. That gap
-is the whole reason this exists.
+Nine clicks. Eight of those nine were people who typed "mindlyft" into Google,
+so one stranger found the site through search in twenty-eight days. Meanwhile
+3,989 impressions went somewhere. That gap is the whole reason this exists.
+
+Read the fifth row before you get excited about any of this. `clay zoominfo
+apollo gtm product launch ai sales october 2026` is somebody's monitoring robot,
+not a buyer, and the tool has no way to tell the difference. Neither does any
+other tool that claims it can.
+
+## No terminal? There is a browser version
+
+<https://mindlyft.io/tools/search-console-gap-audit> runs the same three checks
+on the CSVs Search Console exports, with no install and no account. Your file is
+read by your own browser and is never uploaded. This CLI is still the one to use
+for true query-level collisions, because it accepts a query+page export and the
+browser version only has the separate Queries and Pages files to work from.
 
 ## Limits, stated plainly
 
@@ -93,7 +107,8 @@ name and logo are not; they are excluded from the licence grant.
 
 ---
 
-Built by Mindlyft. We ran this on our own site and it found two pages
-competing with each other and 777 impressions we were not converting. If you
-would rather not maintain the fixing part yourself, that is what we do:
+Built by Mindlyft. We ran it on our own site first. It found two of our pages
+competing with each other, our home page indexed at both http and https, and
+3,989 impressions earning nine clicks. We get paid for the fixing, not the
+finding, and the finding is yours to keep either way:
 <https://mindlyft.io/r/gh>
