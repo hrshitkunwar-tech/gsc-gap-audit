@@ -112,3 +112,12 @@ competing with each other, our home page indexed at both http and https, and
 3,989 impressions earning nine clicks. We get paid for the fixing, not the
 finding, and the finding is yours to keep either way:
 <https://mindlyft.io/r/gh>
+
+
+---
+
+### Production Services & Toolkits
+- **[5-Day Post-Call & CRM Sync Build ($500 flat, Contra)](https://contra.com/s/RmWZoMo3-end-to-end-post-call-automation-and-crm-sync-engine?r=harshit_kunwar_m0yu7crm)**
+- **[30-Min Live GTM Teardown (Topmate)](https://topmate.io/harshit_kunwar/2370556)**
+- **[GTM Operator Packs ($29–$59, Whop)](https://whop.com/mindlyft-io/products/)** · **[Mindlyft Shop](https://mindlyft.shop)**
+- **[GTM Engineering Services](https://mindlyft.io/services)** · **[Pricing](https://mindlyft.io/pricing)**
